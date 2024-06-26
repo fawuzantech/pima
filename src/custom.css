@@ -1,0 +1,7 @@
+/* using csss to customize the llok of the nav bar */
+
+.text-primary {
+   padding: 20px;
+   font-size: large;
+   font-weight: bold;
+}

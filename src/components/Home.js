@@ -8,7 +8,7 @@ export default function Home() {
     <Container style={{ marginTop: '50px', textAlign: 'center' }}>
       <Row className="align-items-center">
         <Col md={6}>
-          <h1 style={{ fontSize: '2.5rem', marginBottom: '20px' }}>Ahoy , Poised to have you here</h1>
+          <h1 style={{ fontSize: '2.5rem', marginBottom: '20px' }}> Thrilled to have you here </h1>
           <p style={{ fontSize: '1.25rem', marginBottom: '20px' }}>
             Hi, I'm Fawuzan Pima, a passionate developer who loves building web applications.
           </p>
